@@ -13,7 +13,7 @@ iso8601==0.1.4
 pytz==2013b
 simplejson==2.5.2
 django-slimmer==0.0.2
-Jinja2==2.6
+Jinja2==2.11.3
 lxml==3.2.1
 
 # adn
