@@ -14,7 +14,7 @@ pytz==2013b
 simplejson==2.5.2
 django-slimmer==0.0.2
 Jinja2==2.6
-lxml==3.2.1
+lxml==4.6.3
 
 # adn
 adnpy==0.3.8
